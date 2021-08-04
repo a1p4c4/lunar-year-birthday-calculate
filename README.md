@@ -6,7 +6,7 @@
 
 ### 截图
 
-![image-20210804185155721](C:\Users\Alpaca\AppData\Roaming\Typora\typora-user-images\image-20210804185155721.png)
+![image](https://user-images.githubusercontent.com/59782799/128169451-2a823c33-7375-4526-b1de-fe1df4f79c2f.png)
 
 ### issue
 
